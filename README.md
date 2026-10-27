@@ -1,14 +1,16 @@
 # Hi, I'm Ramin 👋
 
-### Python / Django Developer · Telegram Bots · Automation
+### Learning Python Backend Development · Django · Automation
 
-I build backend applications, Telegram bots and practical business automation tools.
+I'm currently studying **Python backend development** and building projects to turn theory into practical experience.
 
-My main focus is **Python and Django**. I also work with REST APIs, n8n, Google Sheets and AI integrations.
+My main focus is **Python and Django**. I also experiment with Telegram bots, REST APIs, n8n, Google Sheets and AI integrations.
+
+I'm not presenting myself as an experienced commercial developer yet — this profile is a place where I show what I'm learning, what I've already built, and how my skills are growing.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 What I'm Working With
 
 **Backend:** Python · Django · Django ORM  
 **Databases:** SQL · SQLite  
@@ -20,70 +22,69 @@ My main focus is **Python and Django**. I also work with REST APIs, n8n, Google 
 
 ---
 
-## 🚀 Selected Work
+## 🔧 Practical Projects
 
 ### 🤖 AI Telegram Assistant
 
-Telegram assistant for customer communication and lead generation.
+A Telegram bot project for customer communication and lead collection.
 
 - AI-powered conversations with context
 - product selection from a catalog
 - customer name and phone collection
-- Google Sheets lead storage
-- automatic manager notifications
+- Google Sheets integration
+- manager notifications
 
 **Stack:** Telegram · AI API · n8n · Google Sheets · REST APIs
 
-> Repository and demo are being prepared for publication.
+> Built as a practical automation project. Repository and demo are being prepared for publication.
 
 ### 📊 Automated Sales Reports
 
-Automation for processing retail sales data from an OFD API and delivering structured daily reports to Telegram.
+Automation that processes retail sales data from an OFD API and sends structured reports to Telegram.
 
 - API authentication and data retrieval
 - product-level sales processing
 - cash and card totals
-- automated Telegram reporting
-- scheduled daily execution
+- Telegram reporting
+- scheduled execution
 
 **Stack:** n8n · REST API · Telegram · JavaScript
 
-> Case study is being prepared for publication.
+> Built as a practical automation project. Case study is being prepared for publication.
+
+---
+
+## 📚 Learning Projects
 
 ### 📝 Blogicum
 
-Django blogging application with relational models, categories, locations, scheduled publications, admin configuration and automated tests.
+Educational Django project built while studying backend development.
+
+It includes relational models, categories, locations, scheduled publications, Django Admin, ORM queries, templates and automated tests.
 
 **Stack:** Python · Django · Django ORM · HTML · pytest
 
-> Repository is being prepared for public access.
+> Educational project.
 
 ### 🐍 The Snake
 
-Classic Snake game built with Python and Pygame using object-oriented programming.
+Educational Python project: a classic Snake game built with Pygame and object-oriented programming.
 
 **Stack:** Python · Pygame · OOP · pytest
 
-> Repository is being prepared for public access.
+> Educational project.
 
 ---
 
-## 💼 What I Can Help With
+## 🎯 Current Focus
 
-- Python scripts and utilities
-- Django backend development
-- Telegram bots
-- REST API integrations
-- parsers and data processing
-- n8n workflows
-- Google Sheets automation
-- AI integrations
-- business process automation
+Right now I'm focused on:
 
----
+- strengthening Python fundamentals
+- learning Django and backend development
+- working with APIs and databases
+- building Telegram bots and automations
+- writing cleaner, more understandable code
+- gradually moving from educational tasks to independent projects
 
-## 📚 Currently
-
-I'm improving my Python and Django skills while building practical projects focused on real business problems.
-
-I'm open to **freelance projects and junior backend opportunities**.
+I'm open to **small freelance tasks, internships and junior backend opportunities** where I can keep learning while solving real problems.
