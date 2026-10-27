@@ -4,7 +4,7 @@
 
 I'm currently studying **Python backend development** and building projects to turn theory into practical experience.
 
-My main focus is **Python and Django**. I also experiment with Telegram bots, REST APIs, n8n, Google Sheets and AI integrations.
+My main focus is **Python and Django**. I also work with Telegram bots, REST APIs, n8n, Google Sheets and AI integrations.
 
 I'm not presenting myself as an experienced commercial developer yet — this profile is a place where I show what I'm learning, what I've already built, and how my skills are growing.
 
@@ -18,11 +18,28 @@ I'm not presenting myself as an experienced commercial developer yet — this pr
 **Bots & AI:** Telegram Bot API · AI integrations  
 **Testing & Quality:** pytest · flake8  
 **Frontend basics:** HTML · CSS · Django Templates  
-**Tools:** Git · GitHub · VS Code
+**Tools:** Git · GitHub · VS Code · Docker
 
 ---
 
 ## 🔧 Practical Projects
+
+### 📊 OFD → Telegram Daily Sales Report
+
+A practical n8n automation that collects daily retail sales data from the **Taxcom OFD API**, processes it and sends a structured report to Telegram.
+
+The workflow:
+
+- authenticates with the OFD API
+- loads outlet, cash register and shift data
+- retrieves fiscal documents and detailed receipt data
+- aggregates sold products with JavaScript
+- calculates revenue, cash, card payments and receipt count
+- automatically sends the finished report to Telegram
+
+**Stack:** n8n · Taxcom OFD REST API · JavaScript · Telegram Bot API · Docker
+
+> Built to solve a real operational reporting task. A sanitized public version without credentials or private account data is prepared for GitHub.
 
 ### 🤖 AI Telegram Assistant
 
@@ -37,20 +54,6 @@ A Telegram bot project for customer communication and lead collection.
 **Stack:** Telegram · AI API · n8n · Google Sheets · REST APIs
 
 > Built as a practical automation project. Repository and demo are being prepared for publication.
-
-### 📊 Automated Sales Reports
-
-Automation that processes retail sales data from an OFD API and sends structured reports to Telegram.
-
-- API authentication and data retrieval
-- product-level sales processing
-- cash and card totals
-- Telegram reporting
-- scheduled execution
-
-**Stack:** n8n · REST API · Telegram · JavaScript
-
-> Built as a practical automation project. Case study is being prepared for publication.
 
 ---
 
