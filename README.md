@@ -24,7 +24,7 @@ I'm not presenting myself as an experienced commercial developer yet — this pr
 
 ## 🔧 Practical Projects
 
-### 📊 OFD → Telegram Daily Sales Report
+### 📊 [OFD → Telegram Daily Sales Report](https://github.com/samedovv1/ofd-telegram-sales-report)
 
 A practical n8n automation that collects daily retail sales data from the **Taxcom OFD API**, processes it and sends a structured report to Telegram.
 
@@ -39,7 +39,9 @@ The workflow:
 
 **Stack:** n8n · Taxcom OFD REST API · JavaScript · Telegram Bot API · Docker
 
-> Built to solve a real operational reporting task. A sanitized public version without credentials or private account data is prepared for GitHub.
+> Built to solve a real operational reporting task. The repository contains a sanitized public workflow without credentials or private account data.
+
+[View repository →](https://github.com/samedovv1/ofd-telegram-sales-report)
 
 ### 🤖 AI Telegram Assistant
 
